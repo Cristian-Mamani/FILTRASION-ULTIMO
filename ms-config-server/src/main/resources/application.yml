@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/Cristian-Mamani/FILTRASION-ULTIMO.git # ruta del repositorio git
           searchPaths: config-data
-          default-label: Main
+          default-label: circuitbreaker
   security:
     user:
       name: root
